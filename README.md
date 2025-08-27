@@ -17,7 +17,7 @@ Fonctionnalités : Swagger/OpenAPI, sécurité basique, Actuator, base H2 en mé
 ## 🚀 Procédure de test complète
 ```bash
 # 1. Cloner le dépôt
-git clone <URL_DU_DEPOT>
+git clone https://github.com/benitonzonlia-techLead/SoccerApi.git
 
 # 2. Installer les dépendances
 mvn clean install
